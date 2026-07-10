@@ -1,11 +1,8 @@
 ## 👋 Hi there, I'm Tyler
 
-I'm a Computer Science student with a passion for software engineering and web development. I learned about coding and started building beginner apps.
+I'm a Computer Science student and full-stack developer focused on building modern web applications with Python, Django, Next.js, PostgreSQL, and AI. I enjoy designing software that is clean, scalable, and solves real-world problems.
 
-Since then, I've been continuously learning and building. I enjoy diving into how different technologies work together, and I’m always exploring new tech stacks. My favorite projects involve building fully responsive, full-stack web applications that solve real problems and look great on any device.
-
-I'm always excited to learn more, collaborate on cool projects, and grow as a developer!
-
+I like working across the full stack—from building responsive user interfaces to designing APIs, databases, and backend systems. I'm always exploring new technologies and improving my understanding of software architecture, cloud deployment, and developer best practices.
  
  
 ## 🔡 Programming Languages/IDEs
