@@ -39,13 +39,25 @@ Most of my work involves building APIs, working with databases, creating front-e
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tylerboutwell&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylerboutwell&layout=compact&hide_border=true" />
-</p>
+### StylistAssist
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tylerboutwell&hide_border=true" />
-</p>
+An AI-powered content creation platform that helps stylists turn photos of their work into ready-to-use social media content. Users can upload an image and generate captions and content ideas tailored to their work.
+
+* **Frontend:** Next.js, React, Tailwind CSS
+* **Backend:** Python, Django, Django REST Framework
+* **Database:** PostgreSQL
+* **AI:** OpenAI API
+* **Deployment:** Vercel, Render
+
+[View Project](https://stylistassist.com)
+
+### MiniPage
+
+A simple profile and link-sharing application built to practice full-stack development and deployment.
+
+* **Frontend:** Next.js
+* **Backend:** Django REST Framework
+* **Database:** PostgreSQL
+* **Authentication:** JWT
